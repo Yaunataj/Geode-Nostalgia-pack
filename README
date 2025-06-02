@@ -1,0 +1,7 @@
+create a directory with 'mkdir -p WindowsXPsounds'
+put the mod.json and logo.png in there
+do 'mkdir src resources' in the WindowsXPsounds folder
+put the main.cpp in the src folder
+put the .mp3 files in the resources folder
+and go compile it into a geode mod using 'geode package build' or maybe it was 'geods build package'? I don't remember and then go manually install it
+I don't care if it should be pre-compiled like other geode mods I'm in android making this what u want me to do? remake all of termux?
