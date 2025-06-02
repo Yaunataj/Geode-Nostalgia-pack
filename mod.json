@@ -1,0 +1,11 @@
+{
+    "id": "windows-xp-sounds",
+    "name": "Windows XP Sounds",
+    "developer": "YourName",
+    "description": "Plays Windows XP startup/shutdown sounds in Geometry Dash to let you feel the glorious sounds of 500 bootkits infecting your PC once again...",
+    "version": "1.0.0",
+    "geode": "v1.0.0",
+    "settings": {
+        "enabled": true
+    }
+}
